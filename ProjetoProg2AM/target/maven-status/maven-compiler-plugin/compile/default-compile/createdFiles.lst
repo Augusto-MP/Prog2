@@ -1,0 +1,14 @@
+app\App.class
+app\NovoMotoristaController.class
+modelo\Pessoa.class
+modelo\UsoVeiculo.class
+util\JpaUtil.class
+app\ExcluirMotoristaController.class
+modelo\Operador.class
+util\Persistivel.class
+util\Dao.class
+modelo\Veiculo.class
+module-info.class
+app\MenuController.class
+util\ExclusaoException.class
+modelo\Motorista.class
